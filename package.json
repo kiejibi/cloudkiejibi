@@ -1,0 +1,12 @@
+{
+  "name": "cloudkiejibi",
+  "version": "1.0.0",
+  "description": "ให้ นศ. แก้ไขเว็บเพจต่อนี้ โดยเพิ่มข้อมูลของนักศึกษา (ชื่อ-สกุล, รหัสนักศึกษา) และรูปภาพ ลงไปในเว็บเพจในส่วนที่กำหนด",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
